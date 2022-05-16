@@ -1,3 +1,3 @@
 # shop-shop
 
-https://evening-crag-27119.herokuapp.com/
+Deployed, stripe functional locally: https://evening-crag-27119.herokuapp.com/
