@@ -29,7 +29,7 @@ No contributions at this time.
   REMOVE_FROM_CART,
   UPDATE_CART_QUANTITY,
   CLEAR_CART,
-  TOGGLE_CART
+  TOGGLE_CART.
 
 ### Questions
 GitHub Username: (kcaseychamberlain) 
