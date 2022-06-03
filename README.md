@@ -21,7 +21,15 @@ This application is licensed under MIT
 No contributions at this time.
 
 ### Tests
-N/A
+  UPDATE_PRODUCTS,
+  UPDATE_CATEGORIES,
+  UPDATE_CURRENT_CATEGORY,
+  ADD_TO_CART,
+  ADD_MULTIPLE_TO_CART,
+  REMOVE_FROM_CART,
+  UPDATE_CART_QUANTITY,
+  CLEAR_CART,
+  TOGGLE_CART
 
 ### Questions
 GitHub Username: (kcaseychamberlain) 
